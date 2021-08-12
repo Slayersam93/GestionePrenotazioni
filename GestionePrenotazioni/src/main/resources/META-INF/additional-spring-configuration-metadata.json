@@ -1,0 +1,47 @@
+{"properties": [
+  {
+    "name": "exception.lessthantwodays",
+    "type": "java.lang.String",
+    "description": "A description for 'exception.lessthantwodays'"
+  },
+  {
+    "name": "exception.entitynotfound",
+    "type": "java.lang.String",
+    "description": "A description for 'exception.entitynotfound'"
+  },
+  {
+    "name": "exception.userhasreservation",
+    "type": "java.lang.String",
+    "description": "A description for 'exception.userhasreservation'"
+  },
+  {
+    "name": "exception.workspacealreadyreserved",
+    "type": "java.lang.String",
+    "description": "A description for 'exception.workspacealreadyreserved'"
+  },
+  {
+    "name": "rules.ita",
+    "type": "java.lang.String",
+    "description": "A description for 'rules.ita'"
+  },
+  {
+    "name": "rules.eng",
+    "type": "java.lang.String",
+    "description": "A description for 'rules.eng'"
+  },
+  {
+    "name": "delete.failed",
+    "type": "java.lang.String",
+    "description": "A description for 'delete.failed'"
+  },
+  {
+    "name": "jwt.secret",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.secret'"
+  },
+  {
+    "name": "jwt.expirationms",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.expirationms'"
+  }
+]}
